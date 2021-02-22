@@ -33,6 +33,7 @@ To get started see few chapters of this README first:
 3. proceed to [Incoming data flow](#incoming-data-flow) or [Outgoing data flow](#outgoing-data-flow) depending on your use case
 
 ![hull node core components](/docs/assets/hull-node-components.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhull%2Fhull-node.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhull%2Fhull-node?ref=badge_shield)
 
 ---
 
@@ -812,3 +813,7 @@ app.use("/smart-notifier-handler", smartNotifierHandler({
 ```
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhull%2Fhull-node.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhull%2Fhull-node?ref=badge_large)
